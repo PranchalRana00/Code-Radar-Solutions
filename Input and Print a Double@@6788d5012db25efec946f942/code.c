@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     double i;
-    scanf("%f",&i);
-    printf("%f",i);
+    scanf("%lf",&i);
+    printf("%lf",i);
     return 0;
 }
